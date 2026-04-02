@@ -1,4 +1,4 @@
-// Bibliotecas
+// Bibliotecas e Frameworks
 import { test, expect } from '@playwright/test'
 
 // Funções ou Métodos (função tem retorno, método não)
